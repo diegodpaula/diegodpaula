@@ -1,4 +1,4 @@
-\# Diego de Paula 👋
+# Diego de Paula 👋
 
 
 
@@ -10,11 +10,11 @@
 
 
 
-\---
+---
 
 
 
-\## 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
 
 
@@ -28,13 +28,13 @@ Minha trajetória começou na Mecatrônica, no SENAI-PR, onde desenvolvi uma vis
 
 Atualmente atuo na FUNPAR (Fundação da UFPR), onde adquiri experiência prática com:
 
-\- Consultas SQL e validação de dados
+- Consultas SQL e validação de dados
 
-\- Dashboards em Power BI
+- Dashboards em Power BI
 
-\- Relatórios e análises em Excel
+- Relatórios e análises em Excel
 
-\- Organização e análise de processos administrativos
+- Organização e análise de processos administrativos
 
 
 
@@ -42,71 +42,71 @@ Gosto de transformar dados em informações úteis e estou em constante evoluç�
 
 
 
-\---
+---
 
 
 
-\## 🎯 Foco Atual
+## 🎯 Foco Atual
 
 
 
-\- Python para análise de dados
+- Python para análise de dados
 
-\- Git e GitHub
+- Git e GitHub
 
-\- Fundamentos de Engenharia de Software
+- Fundamentos de Engenharia de Software
 
-\- Data Analytics
+- Data Analytics
 
-\- Cloud Computing e Engenharia de Dados (objetivo futuro)
-
-
-
-\---
+- Cloud Computing e Engenharia de Dados (objetivo futuro)
 
 
 
-\## 🛠️ Tecnologias \& Ferramentas
+---
 
 
 
-\### Dados \& Analytics
-
-\- SQL
-
-\- Power BI
-
-\- Excel
-
-\- Python (em desenvolvimento)
+## 🛠️ Tecnologias \& Ferramentas
 
 
 
-\### Engenharia de Software
+### Dados \& Analytics
 
-\- Git \& GitHub
+- SQL
 
-\- Scrum \& Metodologias Ágeis
+- Power BI
 
-\- Fundamentos de desenvolvimento de software
+- Excel
 
-
-
-\### Background em Mecatrônica
-
-\- Programação de CLPs (PLC)
-
-\- SolidWorks / SolidCAM
-
-\- Automação Industrial
+- Python (em desenvolvimento)
 
 
 
-\---
+### Engenharia de Software
+
+- Git \& GitHub
+
+- Scrum \& Metodologias Ágeis
+
+- Fundamentos de desenvolvimento de software
 
 
 
-\## 🏆 Conquistas
+### Background em Mecatrônica
+
+- Programação de CLPs (PLC)
+
+- SolidWorks / SolidCAM
+
+- Automação Industrial
+
+
+
+---
+
+
+
+## 🏆 Conquistas
 
 
 
@@ -118,11 +118,11 @@ Gosto de transformar dados em informações úteis e estou em constante evoluç�
 
 
 
-\---
+---
 
 
 
-\## 📚 Formação
+## 📚 Formação
 
 
 
@@ -132,25 +132,25 @@ Gosto de transformar dados em informações úteis e estou em constante evoluç�
 
 
 
-\---
+---
 
 
 
-\## 🌎 Idiomas
+## 🌎 Idiomas
 
 
 
-\- Português — Nativo
+- Português — Nativo
 
-\- Inglês — Proficiência Profissional
-
-
-
-\---
+- Inglês — Proficiência Profissional
 
 
 
-\## 📈 Objetivos
+---
+
+
+
+## 📈 Objetivos
 
 
 
@@ -162,11 +162,11 @@ Atualmente estou construindo meu portfólio público e aprofundando minhas habil
 
 
 
-\---
+---
 
 
 
-\## 📫 Contato
+## 📫 Contato
 
 
 
@@ -176,7 +176,7 @@ Atualmente estou construindo meu portfólio público e aprofundando minhas habil
 
 
 
-\---
+---
 
 
 
