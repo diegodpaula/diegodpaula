@@ -172,7 +172,7 @@ Atualmente estou construindo meu portfólio público e aprofundando minhas habil
 
 📧 diegodepaula070408@gmail.com
 
-💼 LinkedIn: https:/linkedin.com/in/diegodpaula
+💼 LinkedIn: linkedin.com/in/diegodpaula
 
 
 
