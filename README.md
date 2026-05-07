@@ -1,184 +1,60 @@
-# Diego de Paula 👋
+# Diego de Paula
 
+Estudante de Engenharia de Software na PUCPR, com formação técnica em Mecatrônica pelo SENAI-PR e experiência prática em análise de dados, SQL e Power BI na FUNPAR (Fundação da UFPR).
 
+Atualmente direcionando os estudos para Engenharia de Software, Data Analytics e desenvolvimento de soluções orientadas a dados.
 
-🎓 Estudante de Engenharia de Software na PUCPR
+## Formação
 
-📊 Entusiasta de Data Analytics e Engenharia de Software
+- Bacharelado em Engenharia de Software — PUCPR (2026–2029)
+- Técnico em Mecatrônica — SENAI-PR (2023–2024)
 
-📍 Curitiba, Paraná — Brasil
+## Experiência
 
+### FUNPAR — Fundação da UFPR
+Aprendiz | Unidade de TI
 
+Atuação com suporte a processos tecnológicos, análise de dados e organização de informações institucionais.
 
----
+### FUNPAR — Fundação da UFPR
+Aprendiz | Unidade de Controladoria  
+Fev. 2025 – Abr. 2026
 
-
-
-## 🚀 Sobre Mim
-
-
-
-Tenho 18 anos e sou estudante de Engenharia de Software, apaixonado por tecnologia, dados e resolução de problemas.
-
-
-
-Minha trajetória começou na Mecatrônica, no SENAI-PR, onde desenvolvi uma visão sistêmica através de automação, robótica e tecnologias industriais. Hoje, meu foco está em Engenharia de Software, Data Analytics e na construção de soluções tecnológicas com impacto real.
-
-
-
-Atualmente atuo na FUNPAR (Fundação da UFPR), onde adquiri experiência prática com:
-
+Principais atividades:
 - Consultas SQL e validação de dados
+- Desenvolvimento de dashboards em Power BI
+- Relatórios analíticos em Excel
+- Organização de processos administrativos e documentais
 
-- Dashboards em Power BI
+## Competências
 
-- Relatórios e análises em Excel
-
-- Organização e análise de processos administrativos
-
-
-
-Gosto de transformar dados em informações úteis e estou em constante evolução técnica e profissional.
-
-
-
----
-
-
-
-## 🎯 Foco Atual
-
-
-
-- Python para análise de dados
-
-- Git e GitHub
-
-- Fundamentos de Engenharia de Software
-
-- Data Analytics
-
-- Cloud Computing e Engenharia de Dados (objetivo futuro)
-
-
-
----
-
-
-
-## 🛠️ Tecnologias \& Ferramentas
-
-
-
-### Dados \& Analytics
-
+### Dados & Analytics
 - SQL
-
 - Power BI
-
 - Excel
-
 - Python (em desenvolvimento)
 
-
-
 ### Engenharia de Software
-
-- Git \& GitHub
-
-- Scrum \& Metodologias Ágeis
-
+- Git e GitHub
 - Fundamentos de desenvolvimento de software
+- Scrum e metodologias ágeis
 
-
-
-### Background em Mecatrônica
-
+### Mecatrônica & Automação
 - Programação de CLPs (PLC)
-
 - SolidWorks / SolidCAM
+- Automação industrial
 
-- Automação Industrial
+## Reconhecimentos
 
+- Medalha de Prata — OMAP 2025
+- Menção Honrosa — OBMEP 2025
+- Menção Honrosa — OBMEP 2022
 
+## Objetivos
 
----
+Desenvolver experiência na interseção entre Engenharia de Software e Data Analytics, com foco em soluções escaláveis, análise de dados e engenharia de sistemas.
 
+## Contato
 
-
-## 🏆 Conquistas
-
-
-
-🥈 Medalha de Prata — OMAP 2025
-
-🏅 Menção Honrosa — OBMEP 2025
-
-🏅 Menção Honrosa — OBMEP 2022
-
-
-
----
-
-
-
-## 📚 Formação
-
-
-
-🎓 Engenharia de Software — PUCPR (2026–2029)
-
-⚙️ Técnico em Mecatrônica — SENAI-PR (2023–2024)
-
-
-
----
-
-
-
-## 🌎 Idiomas
-
-
-
-- Português — Nativo
-
-- Inglês — Proficiência Profissional
-
-
-
----
-
-
-
-## 📈 Objetivos
-
-
-
-Meu objetivo é crescer na interseção entre Engenharia de Software e Data Analytics, desenvolvendo soluções escaláveis, inteligentes e orientadas a dados.
-
-
-
-Atualmente estou construindo meu portfólio público e aprofundando minhas habilidades através de projetos práticos e aprendizado contínuo.
-
-
-
----
-
-
-
-## 📫 Contato
-
-
-
-📧 diegodepaula070408@gmail.com
-
-💼 LinkedIn: linkedin.com/in/diegodpaula
-
-
-
----
-
-
-
-⭐ Sempre aprendendo. Sempre construindo.
-
+- LinkedIn: linkedin.com/in/diegodpaula
+- E-mail: diegodepaula070408@gmail.com
