@@ -13,6 +13,7 @@ Atualmente direcionando os estudos para Engenharia de Software, Data Analytics e
 
 ### FUNPAR — Fundação da UFPR
 Aprendiz | Unidade de TI
+Mai. 2026 - Momento
 
 Atuação com suporte a processos tecnológicos, análise de dados e organização de informações institucionais.
 
