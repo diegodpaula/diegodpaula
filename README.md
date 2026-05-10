@@ -35,11 +35,6 @@ Principais atividades:
 - Excel
 - Python (em desenvolvimento)
 
-### Engenharia de Software
-- Git e GitHub
-- Fundamentos de desenvolvimento de software
-- Scrum e metodologias ágeis
-
 ### Mecatrônica & Automação
 - Programação de CLPs (PLC)
 - SolidWorks / SolidCAM
