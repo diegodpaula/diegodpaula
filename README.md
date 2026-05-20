@@ -1,56 +1,140 @@
-# Diego de Paula
+\# Diego de Paula
 
-Estudante de Engenharia de Software na PUCPR, com formação técnica em Mecatrônica pelo SENAI-PR e experiência prática em análise de dados, SQL e Power BI na FUNPAR (Fundação da UFPR).
 
-Atualmente direcionando os estudos para Engenharia de Software, Data Analytics e desenvolvimento de soluções orientadas a dados.
 
-## Formação
+Estudante de \*\*Estatística e Ciência de Dados\*\* na Universidade Federal do Paraná (UFPR), com formação técnica em Mecatrônica pelo SENAI-PR e experiência profissional nas áreas de análise de dados, Business Intelligence e suporte a processos institucionais na FUNPAR (Fundação da UFPR).
 
-- Bacharelado em Engenharia de Software — PUCPR (2026–2029)
-- Técnico em Mecatrônica — SENAI-PR (2023–2024)
 
-## Experiência
 
-### FUNPAR — Fundação da UFPR
-Aprendiz | Unidade de TI  
-Mai. 2026 - Momento
+Possui interesse acadêmico e profissional em Ciência de Dados, Estatística Aplicada, Engenharia de Dados e desenvolvimento de soluções orientadas por dados, buscando consolidar conhecimentos técnicos e analíticos voltados à resolução de problemas e otimização de processos.
 
-Atuação com suporte a processos tecnológicos, análise de dados e organização de informações institucionais.
 
-### FUNPAR — Fundação da UFPR
-Aprendiz | Unidade de Controladoria  
-Fev. 2025 – Abr. 2026
 
-Principais atividades:
-- Consultas SQL e validação de dados
-- Desenvolvimento de dashboards em Power BI
-- Relatórios analíticos em Excel
-- Organização de processos administrativos e documentais
+\---
 
-## Competências
 
-### Dados & Analytics
-- SQL
-- Power BI
-- Excel
-- Python (em desenvolvimento)
 
-### Mecatrônica & Automação
-- Programação de CLPs (PLC)
-- SolidWorks / SolidCAM
-- Automação industrial
+\## Formação Acadêmica
 
-## Reconhecimentos
 
-- Medalha de Prata — OMAP 2025
-- Menção Honrosa — OBMEP 2025
-- Menção Honrosa — OBMEP 2022
 
-## Objetivos
+\- Bacharelado em Estatística e Ciência de Dados — UFPR (2026–2030)
 
-Desenvolver experiência na interseção entre Engenharia de Software e Data Analytics, com foco em soluções escaláveis, análise de dados e engenharia de sistemas.
+\- Técnico em Mecatrônica — SENAI-PR (2023–2024)
 
-## Contato
 
-- LinkedIn: linkedin.com/in/diegodpaula
-- E-mail: diegodepaula070408@gmail.com
+
+\---
+
+
+
+\## Experiência Profissional
+
+
+
+\### FUNPAR — Fundação da UFPR  
+
+\*\*Aprendiz — Unidade de Tecnologia da Informação\*\*  
+
+\*Mai. 2026 – Atual\*
+
+
+
+Atuação no suporte a processos tecnológicos e administrativos, com participação em atividades relacionadas à organização de informações institucionais e análise de dados.
+
+
+
+\### FUNPAR — Fundação da UFPR  
+
+\*\*Aprendiz — Unidade de Controladoria\*\*  
+
+\*Fev. 2025 – Abr. 2026\*
+
+
+
+Principais atividades desenvolvidas:
+
+\- Elaboração e validação de consultas SQL;
+
+\- Desenvolvimento de dashboards e relatórios gerenciais em Power BI;
+
+\- Análise e organização de dados em Excel;
+
+\- Apoio a processos administrativos e documentais.
+
+
+
+\---
+
+
+
+\## Competências Técnicas
+
+
+
+\### Dados e Análise
+
+\- SQL
+
+\- Power BI
+
+\- Excel
+
+\- Python \*(em desenvolvimento)\*
+
+\- Análise de Dados
+
+\- Estatística Aplicada
+
+
+
+\### Mecatrônica e Automação
+
+\- Programação de CLPs (PLC)
+
+\- SolidWorks / SolidCAM
+
+\- Automação Industrial
+
+
+
+\---
+
+
+
+\## Reconhecimentos Acadêmicos
+
+
+
+\- Medalha de Prata — OMAP 2025
+
+\- Menção Honrosa — OBMEP 2025
+
+\- Menção Honrosa — OBMEP 2022
+
+
+
+\---
+
+
+
+\## Objetivos Profissionais
+
+
+
+Desenvolver trajetória profissional voltada à interseção entre Ciência de Dados, Estatística e Engenharia de Software, com foco em análise de dados, modelagem estatística, automação de processos e desenvolvimento de soluções escaláveis orientadas por dados.
+
+
+
+\---
+
+
+
+\## Contato
+
+
+
+\- LinkedIn: linkedin.com/in/diegodpaula
+
+\- E-mail: diegodepaula070408@gmail.com
+
