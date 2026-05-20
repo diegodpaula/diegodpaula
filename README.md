@@ -1,8 +1,8 @@
-\# Diego de Paula
+# Diego de Paula
 
 
 
-Estudante de \*\*Estatística e Ciência de Dados\*\* na Universidade Federal do Paraná (UFPR), com formação técnica em Mecatrônica pelo SENAI-PR e experiência profissional nas áreas de análise de dados, Business Intelligence e suporte a processos institucionais na FUNPAR (Fundação da UFPR).
+Estudante de **Estatística e Ciência de Dados** na Universidade Federal do Paraná (UFPR), com formação técnica em Mecatrônica pelo SENAI-PR e experiência profissional nas áreas de análise de dados, Business Intelligence e suporte a processos institucionais na FUNPAR (Fundação da UFPR).
 
 
 
@@ -10,33 +10,33 @@ Possui interesse acadêmico e profissional em Ciência de Dados, Estatística Ap
 
 
 
-\---
+---
 
 
 
-\## Formação Acadêmica
+## Formação Acadêmica
 
 
 
-\- Bacharelado em Estatística e Ciência de Dados — UFPR (2026–2030)
+- Bacharelado em Estatística e Ciência de Dados — UFPR (2026–2030)
 
-\- Técnico em Mecatrônica — SENAI-PR (2023–2024)
-
-
-
-\---
+- Técnico em Mecatrônica — SENAI-PR (2023–2024)
 
 
 
-\## Experiência Profissional
+---
 
 
 
-\### FUNPAR — Fundação da UFPR  
+## Experiência Profissional
 
-\*\*Aprendiz — Unidade de Tecnologia da Informação\*\*  
 
-\*Mai. 2026 – Atual\*
+
+### FUNPAR — Fundação da UFPR  
+
+**Aprendiz — Unidade de Tecnologia da Informação**  
+
+*Mai. 2026 – Atual*
 
 
 
@@ -44,81 +44,81 @@ Atuação no suporte a processos tecnológicos e administrativos, com participa�
 
 
 
-\### FUNPAR — Fundação da UFPR  
+### FUNPAR — Fundação da UFPR  
 
-\*\*Aprendiz — Unidade de Controladoria\*\*  
+**Aprendiz — Unidade de Controladoria**  
 
-\*Fev. 2025 – Abr. 2026\*
+*Fev. 2025 – Abr. 2026*
 
 
 
 Principais atividades desenvolvidas:
 
-\- Elaboração e validação de consultas SQL;
+- Elaboração e validação de consultas SQL;
 
-\- Desenvolvimento de dashboards e relatórios gerenciais em Power BI;
+- Desenvolvimento de dashboards e relatórios gerenciais em Power BI;
 
-\- Análise e organização de dados em Excel;
+- Análise e organização de dados em Excel;
 
-\- Apoio a processos administrativos e documentais.
-
-
-
-\---
+- Apoio a processos administrativos e documentais.
 
 
 
-\## Competências Técnicas
+---
 
 
 
-\### Dados e Análise
-
-\- SQL
-
-\- Power BI
-
-\- Excel
-
-\- Python \*(em desenvolvimento)\*
-
-\- Análise de Dados
-
-\- Estatística Aplicada
+## Competências Técnicas
 
 
 
-\### Mecatrônica e Automação
+### Dados e Análise
 
-\- Programação de CLPs (PLC)
+- SQL
 
-\- SolidWorks / SolidCAM
+- Power BI
 
-\- Automação Industrial
+- Excel
 
+- Python *(em desenvolvimento)*
 
+- Análise de Dados
 
-\---
-
-
-
-\## Reconhecimentos Acadêmicos
+- Estatística Aplicada
 
 
 
-\- Medalha de Prata — OMAP 2025
+### Mecatrônica e Automação
 
-\- Menção Honrosa — OBMEP 2025
+- Programação de CLPs (PLC)
 
-\- Menção Honrosa — OBMEP 2022
+- SolidWorks / SolidCAM
 
-
-
-\---
+- Automação Industrial
 
 
 
-\## Objetivos Profissionais
+---
+
+
+
+## Reconhecimentos Acadêmicos
+
+
+
+- Medalha de Prata — OMAP 2025
+
+- Menção Honrosa — OBMEP 2025
+
+- Menção Honrosa — OBMEP 2022
+
+
+
+---
+
+
+
+## Objetivos Profissionais
 
 
 
@@ -126,15 +126,15 @@ Desenvolver trajetória profissional voltada à interseção entre Ciência de D
 
 
 
-\---
+---
 
 
 
-\## Contato
+## Contato
 
 
 
-\- LinkedIn: linkedin.com/in/diegodpaula
+- LinkedIn: linkedin.com/in/diegodpaula
 
-\- E-mail: diegodepaula070408@gmail.com
+- E-mail: diegodepaula070408@gmail.com
 
